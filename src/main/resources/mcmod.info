@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "autol",
+    "name": "AutoL",
+    "description": "Why are you here? L!",
+    "version": "1.0",
+    "mcversion": "1.8",
+    "url": "https://jartexnetwork.com",
+    "credits": "Do not distribute and claim it as your own! License: Custom (Do not distribute/modify and claim it as your own!)",
+    "authorList": [
+      "bramar"
+    ]
+  }
+]
